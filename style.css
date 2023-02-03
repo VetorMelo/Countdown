@@ -5,10 +5,13 @@
 }
 
 body {
-    background-image: url('./img/fundo-realista-de-luzes-de-neon_52683-60170.avif');
+    background-image: url('./img/party4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     color: whitesmoke;
     font-family: 'Montserrat' sans-serif;
     user-select: none;
+    -webkit-user-select: none;
 }
 
 .container {
